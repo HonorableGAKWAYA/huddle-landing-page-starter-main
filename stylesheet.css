@@ -328,7 +328,7 @@ footer .bg-top-mob{
     padding: 0;
 }
 .attribution{
-    background-color: hsl(192, 100%, 9%);
+    background: hsl(192, 100%, 9%);
     color: white;
     text-align: center;
     padding: 20px;
