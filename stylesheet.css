@@ -327,18 +327,19 @@ footer .bg-top-mob{
     margin: 0;
     padding: 0;
 }
-.attribution{
+.copyright{
     background: hsl(192, 100%, 9%);
     color: white;
     text-align: center;
     padding: 20px;
     font-size: 13px;
     box-shadow: 0px -10px 0px hsl(192, 100%, 9%);
+    margin: 0;
 }
-.attribution a{
+.copyright a{
     color: white;
 }
-.attribution a:hover{
+.copyright a:hover{
     color:hsl(321, 100%, 78%);
 }
 
